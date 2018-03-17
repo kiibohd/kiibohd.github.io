@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Engineering Update March 2018"
-date:   2018-03-17 1:00:00 -0700
-author: Input Club
+layout:  post
+title:   "Engineering Update March 2018"
+date:    2018-03-17 1:00:00 -0700
+updated: 2018-03-17 10:20:00 -0700
+author:  Input Club
 tags: update engineering keyboards firmware case pcb configurator fun
 ---
 
